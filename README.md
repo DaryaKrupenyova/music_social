@@ -4,7 +4,7 @@ A social network application for music lovers to connect based on their location
 
 ## Live Demo
 
-The application is live at: [http://51.250.84.238:81/](http://51.250.84.238:81/)
+The application is live at: [https://51.250.84.238:81/](https://51.250.84.238:81/)
 
 ## Features
 
